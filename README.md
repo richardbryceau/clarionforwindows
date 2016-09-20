@@ -3,6 +3,9 @@ by Richard Bryce, Sydney NSW AUSTRALIA
 
 https://au.linkedin.com/in/richardbryce
 
+Using Clarion 9.1.0 Build 11313...
+
+
 Some code utilities that I have written.
 
 GUID.
