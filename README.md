@@ -2,7 +2,7 @@
 by Richard Bryce, Sydney NSW AUSTRALIA
 https://au.linkedin.com/in/richardbryce
 
-Some code utilities that I have written.
+Some code utilities that I have written for the Clarion for Windows development tool (by softvelocity.com)
 
 GUID.
 Will return a global unique identifier.
