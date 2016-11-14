@@ -21,4 +21,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.inc linguist-language=Clarion
+*.app linguist-language=Clarion
